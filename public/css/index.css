@@ -67,6 +67,7 @@
 
 .task18 {
   display: flex;
+  align-content: flex-end;
 }
 
 .task19 {
